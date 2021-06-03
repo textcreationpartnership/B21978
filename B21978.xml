@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Lords spiritual and temporal, and Commons assembled at Westminster; presented to the King and Queen, by the right honourable the Marquess of Hallifax, speaker to the House of Lords. With His Majesties most gracious answer thereunto.</title>
+            <title>Proceedings. 1689-02-12</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21978</idno><idno type="EEBO-CITATION">99889637</idno>
+  <idno type="VID">188670</idno>
+  <idno type="EEBO-PROQUEST">2240911974</idno>
+  
+            <idno type="OCLC"> 11233120</idno>
+            <idno type="STC">Wing E1489</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[49]</idno>
+            <idno type="STC">ESTC R30025</idno>
+            <idno type="PROQUEST">ocm99889637</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889637e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188670)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Lords spiritual and temporal, and Commons assembled at Westminster; presented to the King and Queen, by the right honourable the Marquess of Hallifax, speaker to the House of Lords. With His Majesties most gracious answer thereunto.</title>
+                  <title>Proceedings. 1689-02-12</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4], 3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Partridge, Matthew Gillyflower and Samuel Heyrick,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With initial order-to-print leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:188670:1"/>
+            <p> THE DECLARATION OF THE Lords Spiritual and Temporal, AND COMMONS Assembled at <hi>WESTMINSTER;</hi> Presented to the KING and QUEEN, By the Right Honourable the MARQUESS of HALLIFAX, SPEAKER to the House of LORDS.</p>
+            <p>WITH HIS MAJESTIES Most Gracious ANSWER thereunto.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Iames Pertridge, Matthew Gillyflower,</hi> and <hi>Samuel Heyrick,</hi> MDCLXXXIX.</p>
+            <pb facs="tcp:188670:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:188670:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die</hi> Martis, 12<seg rend="sup">o</seg>
+                     <hi>Februarii,</hi> 1688/9.</date>
+               </dateline>
+            </opener>
+            <head>THE DECLARATION OF THE Lords Spiritual and Temporal, AND COMMONS Assembled at <hi>Westminster.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the late King <hi>James</hi> the Second, by the Assistance of divers Evil Counsellors, Judges, and Ministers Employ'd by Him, did endeavour to Subvert and Extirpate the Protestant Religion, and the Laws and Liberties of this Kingdom;</p>
+            <p>By Assuming and Exercising a Power of Dis<g ref="char:EOLhyphen"/>pensing with, and Suspending of Laws, and the Execution of Laws, without Consent of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>By Committing and Prosecuting divers Wor<g ref="char:EOLhyphen"/>thy Prelates, for humbly Petitioning to be Excu<g ref="char:EOLhyphen"/>sed from concurring to the said assumed Power.</p>
+            <p>By issuing, and causing to be Executed, a Commission under the Great Seal, for erecting a Court called, <hi>The Court of Commissioners for Ecclesiastical Causes.</hi>
+            </p>
+            <p>By Levying Money for and to the Use of the Crown, by pretence of Pre<g ref="char:EOLhyphen"/>rogative, for other time, and in other manner, than the same was granted by Parliament.</p>
+            <p>By raising and keeping a standing Army within this Kingdom in time of Peace, without Consent of Parliament; and Quartering Soldiers contrary to Law.</p>
+            <p>By causing several Good Subjects, being Protestants, to be Disarmed at the same time, when Papists were both Armed and Imployed contrary to Law.</p>
+            <p>By violating the Freedom of Election of Members to serve in Parliament.</p>
+            <p>By Prosecutions in the Court of <hi>Kings-Bench</hi> for Matters and Causes cogni<g ref="char:EOLhyphen"/>zable only in <hi>Parliament;</hi> and by divers other Arbitrary and Illegal Courses.</p>
+            <p>And whereas of late years, Partial, Corrupt, and Unqualified Persons, have been returned and served on Juries in Trials, and particularly divers Jurors in Trials for High-Treason, which were not Freeholders;</p>
+            <p>And Excessive Bail hath been required of persons committed in Criminal Cases, to elude the benefit of the Laws made for the Liberty of the Subjects.</p>
+            <p>And Excessive Fines have been imposed.</p>
+            <p>And Illegal and Cruel Punishments inflicted.</p>
+            <p>And several Grants and Promises made of Fines and Forfeitures before any Conviction or Judgment against the persons upon whom the same were to be levied.</p>
+            <p>All which are utterly and directly contrary to the known Laws and Sta<g ref="char:EOLhyphen"/>tutes, and Freedom of this Realm.</p>
+            <p>And whereas the said late King <hi>James</hi> the Second, having Abdicated the Government, and the Throne being thereby vacant,</p>
+            <p>His Highness the Prince of <hi>Orange</hi> (whom it hath pleased Almighty God to make the Glorious Instrument of Delivering this Kingdom from Popery and Arbitrary Power) did (by the Advice of the Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral,
+<pb n="2" facs="tcp:188670:3"/> and divers principal Persons of the Commons) cause Letters to be written to the Lords Spiritual and Temporal, being Protestants, and other Letters to the several Counties, Cities, Universities, Burroughs, and Cinque-Ports, for the Chusing of such Persons to represent them, as were of Right to be sent to Parliament, to Meet and Sit at <hi>Westminster</hi> upon the 22d day of <hi>January</hi> in this year 1683, in order to such an Establishment, as that their Re<g ref="char:EOLhyphen"/>ligion, Laws and Liberties, might not again be in danger of being Subverted: Upon which Letters Elections having been accordingly made;</p>
+            <p>And thereupon the said Lords Spiritual and Temporal, and Commons, pursuant to their respective Letters and Elections, being now Assembled in a Full and Free Representative of this Nation, taking into their most serious Consideration the best Means for attaining the Ends aforesaid, do in the first place (as their Ancestors in like Case have usually done) for the Vindica<g ref="char:EOLhyphen"/>ting and Asserting their Ancient Rights and Liberties, Declare,</p>
+            <p>That the pretended Power of Suspending of Laws, or the Execution of Laws, by Regal Authority, without Consent of Parliament, is Illegal.</p>
+            <p>That the pretended Power of Dispensing with Laws, or the Execution of Laws, by Regal Authority, as it hath been assumed and exercised of late, is Illegal.</p>
+            <p>That the Commission for erecting the late <hi>Court of Commissioners for Eccle<g ref="char:EOLhyphen"/>siastical Causes,</hi> and all other Commissions and Courts of the like nature, are Illegal and Pernicious.</p>
+            <p>That levying of Money for or to the Use of the Crown, by pretence of Prerogative, without Grant of Parliament, for longer time, or in other man<g ref="char:EOLhyphen"/>ner, than the same is or shall be granted, is Illegal.</p>
+            <p>That it is the Right of the Subjects to Petition the King, and all Commit<g ref="char:EOLhyphen"/>ments and Prosecutions for such Petitioning, are Illegal.</p>
+            <p>That the raising or keeping a standing Army within the Kingdom in time of Peace, unless it be with Consent of Parliament, is against Law.</p>
+            <p>That the Subjects which are Protestants may have Arms for their Defence suitable to their Condition, and as allowed by Law.</p>
+            <p>That Election of Members of Parliament ought to be free.</p>
+            <p>That the Freedom of Speech, and Debates or Proceedings in Parliament, ought not to be impeached or questioned in any Court or place out of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>That Excessive Bail ought not to be required, nor Excessive Fines imposed, nor cruel and unusual Punishments inflicted.</p>
+            <p>That Jurors ought to be duly empannell'd and return'd, and Jurors which pass upon Men in Trials for High-Treason ought to be Freeholders.</p>
+            <p>That all Grants and Promises of Fines and Forfeitures of particular persons before Conviction, are Illegal and Void.</p>
+            <p>And that for redress of all Grievances, and for the amending, strengthening and preserving of the Laws, Parliaments ought to be held frequently</p>
+            <p>And they do claim, demand, and insist upon all and singular the Premises, as their undoubted Rights and Liberties; and that no Declarations, Judg<g ref="char:EOLhyphen"/>ments, Doings, or Proceedings, to the prejudice of the People in any of the said Premises, ought in any wise to be drawn hereafter into Consequence or Example.</p>
+            <p>To which Demand of their Rights they are particularly encouraged by the Declaration of His Highness the Prince of <hi>Orange,</hi> as being the only means for obtaining a full redress and remedy therein.</p>
+            <p>Having therefore an intire Confidence, that his said Highness the Prince of <hi>Orange</hi> will perfect the Deliverance so far advanced by Him, and will still
+<pb n="3" facs="tcp:188670:3"/> preserve them from the violation of their Rights, which they have here assert<g ref="char:EOLhyphen"/>ed, and from all other Attempts upon their Religion, Rights, and Liberties;</p>
+            <p>The said Lords Spiritual and Temporal, and Commons assembled at <hi>West<g ref="char:EOLhyphen"/>minster</hi> do resolve,</p>
+            <p>That <hi>William</hi> and <hi>Mary</hi> Prince and Princess of <hi>Orange</hi> be, and be declared, King and Queen of <hi>England, France,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging, to hold the Crown and Royal Dignity of the said Kingdoms and Dominions, to Them the said Prince and Princess, during their Lives, and the Life of the Survivor of them; And that the sole and full Exercise of the Regal Power be only in, and executed by, the said Prince of <hi>Orange,</hi> in the Names of the said Prince and Princess during their joint Lives; and after their Deceases, the said Crown and Royal Dignity of the said Kingdoms and Domi<g ref="char:EOLhyphen"/>nions to be to the Heirs of the Body of the said Princess; and for default of such Issue, to the Princess <hi>Ann</hi> of <hi>Denmark,</hi> and the Heirs of Her Body; and for default of such Issue, to the Heirs of the Body of the said Prince of <hi>Orange.</hi>
+            </p>
+            <p>And the said Lords Spiritual and Temporal, and Commons, do pray the said Prince and Princess of <hi>Orange</hi> to accept the same accordingly.</p>
+            <p>And that the Oaths hereafter mentioned be taken by all persons of whom the Oaths of Allegiance and Supremacy might be required by Law, instead of them; and that the said Oaths of Allegiance and Supremacy be Ab<g ref="char:EOLhyphen"/>rogated.</p>
+            <div type="oath">
+               <p>
+                  <hi>I</hi> A. B. <hi>do sincerely promise and swear, That I will be faithful, and bear true Allegiance to Their Majesties King</hi> WILLIAM <hi>and Queen</hi> MARY.</p>
+               <closer>So help me God.</closer>
+            </div>
+            <div type="oath">
+               <p>
+                  <hi>I</hi> A. B. <hi>do swear, That I do from my heart Abhor, Detest, and Abjure, as Impious and Heretical, this Damnable Doctrine and Position,</hi> That Princes Ex<g ref="char:EOLhyphen"/>communicated or Deprived by the Pope, or any Authority of the See of <hi>Rome,</hi> may be Deposed or Murthered by their Subjects, or any other what<g ref="char:EOLhyphen"/>soever. <hi>And I do declare, That no Foreign Prince, Person, Prelate, State, or Potentate, hath, or ought to have, any Jurisdiction, Power, Superiority, Pre<g ref="char:EOLhyphen"/>eminence, or Authority Ecclesiastical or Spiritual, within this Realm.</hi>
+               </p>
+               <closer>So help me God.
+<signed>
+                     <hi>Jo. Browne,</hi> Cleric' Parl.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Veneris</hi> 15 <hi>Feb.</hi> 1688.</date>
+                  </dateline>
+               </opener>
+               <head>His Majesties Gracious ANSWER, to the DECLARATION of Both HOUSES.</head>
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>THis is certainly the greatest proof of the Trust you have in Ʋs, that can be given, which is the thing that maketh Ʋs value it the more; and We thankfully Accept what you have Offered. And as I had no other Intention in coming hither, than to preserve your Religion, Laws and Liberties; so you may be sure, That I shall endeavour to support them, and shall be willing to concur in any thing that shall be for the Good of the Kingdom, and to do all that is in My power to Advance the Welfare and Glory of the Nation.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:188670:4"/>
+            <pb facs="tcp:188670:4"/>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <pb facs="tcp:188670:5"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris</hi> 15<seg rend="sup">o</seg>
+                     <hi>Februarii</hi> 1688.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral, Assembled at <hi>Westminster,</hi> That His Majesties Gracious Answer to the De<g ref="char:EOLhyphen"/>claration of Both Houses, and the Declaration, be forthwith Printed and Published; And that His Majesties Gracious Answer this Day be added to the Engrossed Declaration in Parchment, to be Enrolled in Parliament and Chancery.</p>
+            <closer>
+               <signed>
+                  <hi>Jo. Browne,</hi> Cleric' Parliamentorum.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
